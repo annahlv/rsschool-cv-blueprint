@@ -1,4 +1,4 @@
-## Anna Holovan
+# Anna Holovan
 Kyiv, Ukraine
 
 annahlv.work@gmail.com
@@ -6,7 +6,7 @@ annahlv.work@gmail.com
 +380 67 382-15-18
 
 ###### Experience
-##### Web Designer
+#### Web Designer
 ООО «Дэксэтсервис» (OOO Dexatservice)
 
 Nov 2018 - Oct 2020 - 2 years, Minsk, Belarus
@@ -17,7 +17,7 @@ platform. During that time I earned some valuable experience in
 design and web development.
 
 ###### Education
-##### Belarusian State Technological University
+#### Belarusian State Technological University
 2016 - 2020, Minsk, Belarus
 
 Bachelor’s degree in Design of Electronic and Web Publications.
