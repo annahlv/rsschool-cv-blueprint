@@ -1,8 +1,6 @@
 ## Anna Holovan
 Kyiv, Ukraine
-
 annahlv.work@gmail.com
-
 +380 67 382-15-18
 
 ###### Experience
