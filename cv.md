@@ -24,7 +24,7 @@ Bachelor’s degree in Design of Electronic and Web Publications.
 Here I've taken courses in interface design, math, cryptography, frontend/backend programming, image/video processing, animation, 3D modelling, project management, etc.
 
 ###### Code examples
-  var collection = {
+<  var collection = {
     2548: {
       albumTitle: 'Slippery When Wet',
     artist: 'Bon Jovi',
@@ -57,8 +57,7 @@ Here I've taken courses in interface design, math, cryptography, frontend/backen
     return object;
   }
   
-  updateRecords(collection, 5439, 'artist', 'ABBA');
-
+  updateRecords(collection, 5439, 'artist', 'ABBA'); >
 ###### Technologies
 HTML, CSS, JavaScript, Node.js, C#, .NET, PHP, SQL, LINQ, Unity, Git
 
